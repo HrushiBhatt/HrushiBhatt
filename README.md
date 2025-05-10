@@ -50,8 +50,8 @@ Embedded Systems, Object-Oriented Programming, API Integration, Real-Time Data V
 
 ## 📫 Connect with Me
 
-- 🌐 github.com/HrushiBhatt
-- 💼 inkedin.com/in/hrushibhatt
+- 🌐 Github.com/HrushiBhatt
+- 💼 Linkedin.com/in/hrushibhatt
 - 📧 hrushibhatt@gmail.com
 
 Thanks for visiting!
