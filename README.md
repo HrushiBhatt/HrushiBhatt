@@ -1,58 +1,57 @@
-# 👋 Hi, I'm Hrushi Bhatt
+# 👋 Hey, I'm Hrushi Bhatt
 
-🚀 **Computer Engineering Student @ Iowa State University**  
-🔧 Passionate about **embedded systems**, **hardware/software integration**, and building **autonomous robots**  
-🎯 Currently: IT Support Specialist | Robotics Engineer | Aspiring Product Manager  
-📍 Based in the U.S. | Looking for **Summer 2025 internships** in embedded systems, robotics, or product operations
+I'm a Computer Engineering student at Iowa State University who enjoys building smart, hands-on projects that combine hardware and software. I’ve worked on robots, data-driven apps, and interactive UIs, and I’m always exploring new technologies to improve how things work.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Projects
+
+- **Autonomous Jungle Explorer Robot**  
+  A Roomba-based robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
+
+- **Message Decoder System**  
+  A low-level decoder built in C that processes encoded messages using linked lists and pattern matching logic.
+
+- **Portfolio Website**  
+  A clean, responsive personal website made with Next.js and Tailwind CSS.
+
+---
+
+## 💻 Skills
 
 **Languages:**  
-`C` | `C++` | `Python` | `Java` | `JavaScript` | `Verilog` | `VHDL` | `HTML/CSS`
-
-**Embedded & Hardware:**  
-`TM4C123 Microcontrollers` | `UART` | `ADC` | `IR Sensors` | `PING Sensors` | `TI Code Composer Studio`
+Python, C, C++, Java, JavaScript, HTML, CSS, Verilog
 
 **Tools & Frameworks:**  
-`Git` | `VS Code` | `Workday` | `Microsoft Entra` | `Cisco ISE` | `Tkinter` | `Matplotlib`
+Git, VS Code, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS
 
-**Cloud & Software:**  
-`Microsoft Teams` | `Google Suite` | `SpeechRecognition` | `Framer Motion` | `Next.js` | `React`
-
----
-
-## 🌱 Current Projects
-
-🛰️ **Autonomous Jungle Explorer Robot**  
-A Roomba-based CyBot that navigates through jungle terrain, detects objects with IR + sonar sensors, and locates a hidden statue using real-time data visualization.  
-[🔗 View Project Repo](https://github.com/yourusername/cybot-jungle-explorer)
-
-🧠 **AI Message Decoder**  
-A low-level message decoding system designed with data structures to parse, identify, and reconstruct encoded messages.  
-[🔗 View Project Repo](https://github.com/yourusername/message-decoder)
-
-🌐 **Portfolio Website**  
-Built with React, Tailwind, and Next.js. Clean, minimal, and fully responsive.  
-[🔗 Live Site](https://yourusername.github.io/) | [💻 Source Code](https://github.com/yourusername/portfolio)
+**Concepts:**  
+Embedded Systems, Object-Oriented Programming, API Integration, Real-Time Data Visualization, Full Stack Development
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Coursework
 
-![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+**Currently Taking:**  
+- Embedded Systems
+- Discrete Math
+- Linear Algebra
+- Engineering Ethics
+
+**Completed:**  
+- Data Structures and Algorithms
+- Digital Logic and Design
+- Object Oriented Programming
+- CPRE Problem Solving
+- Differential Equations
+- Calculus 2
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hrushi-bhatt/)
-- 📧 Email: `hrushi.bhatt@email.com`
-- 🌐 [Personal Website](https://yourusername.github.io)
+- 🌐 [Portfolio Website](https://github.com/HrushiBhatt)
+- 💼 [LinkedIn](www.linkedin.com/in/hrushibhatt)
+- 📧 Email: hrushibhatt@gmail.com
 
----
-
-_“Strive not to be a success, but rather to be of value.” — Albert Einstein_
-
+Thanks for visiting!
