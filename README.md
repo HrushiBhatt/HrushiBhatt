@@ -33,12 +33,15 @@ Embedded Systems, Object-Oriented Programming, API Integration, Real-Time Data V
 ## 📚 Coursework
 
 **Currently Taking:**  
+- Computer Organization & Assembly Level Programming
+- Electric Circuits
+- Technical Communication
+
+**Completed:**  
 - Embedded Systems
 - Discrete Math
 - Linear Algebra
 - Engineering Ethics
-
-**Completed:**  
 - Data Structures and Algorithms
 - Digital Logic and Design
 - Object Oriented Programming
