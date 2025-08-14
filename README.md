@@ -6,8 +6,8 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
 
 ## 🧠 Projects
 
-- **Autonomous Jungle Explorer Robot**  
-  A Roomba-based robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
+- **Embedded Navigation Robot**  
+  A Roomba robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
 
 - **Message Decoder System**  
   A low-level decoder built in C that processes encoded messages using linked lists and pattern matching logic.
@@ -20,13 +20,13 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
 ## 💻 Skills
 
 **Languages:**  
-Python, C, C++, Java, JavaScript, HTML, CSS, Verilog
+Python, C, Java, JavaScript, HTML, CSS, Verilog HDL, Kotlin
 
 **Tools & Frameworks:**  
-Git, VS Code, React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind CSS
+VS Code, Eclipse, Code Composer Studio, GitHub, Android Studio, ModelSim, ADB, Node.js, React, Matplotlib
 
 **Concepts:**  
-Embedded Systems, Object-Oriented Programming, API Integration, Real-Time Data Visualization, Full Stack Development
+Embedded Systems, Data Structures, Object-Oriented Programming, API Integration, Real-Time Data Visualization, Full Stack Development
 
 ---
 
