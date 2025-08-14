@@ -13,7 +13,7 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
   A low-level decoder built in C that processes encoded messages using linked lists and pattern matching logic.
 
 - **Portfolio Website**  
-  A clean, responsive personal website made with Next.js and Tailwind CSS.
+  
 
 ---
 
