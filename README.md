@@ -6,6 +6,9 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
 
 ## 🧠 Projects
 
+- **Coffee Pomodoro Timer**
+  A full-stack web application designed for productivity and time management. Helps users track their work sessions. 
+
 - **Embedded Navigation Robot**  
   A Roomba robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
 
