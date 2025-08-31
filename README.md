@@ -1,7 +1,8 @@
 # 👋 I'm Hrushi Bhatt
 
-🎓 Junior @ Iowa State University
-💻 Pursuing B.S. in Computer Engineering
+- 🎓 Junior @ Iowa State University
+
+- 💻 Pursuing B.S. in Computer Engineering
 
 ---
 
