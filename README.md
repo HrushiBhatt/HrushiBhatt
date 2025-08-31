@@ -23,22 +23,21 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
 ## 💻 Skills
 
 **Languages:**  
-Python, C, Java, JavaScript, HTML, CSS, Verilog HDL, Kotlin
+Python, C, Java, JavaScript, HTML/CSS, VHDL, Kotlin
 
 **Tools & Frameworks:**  
-VS Code, Eclipse, Code Composer Studio, GitHub, Android Studio, ModelSim, ADB, Node.js, React, Matplotlib
+VS Code, IntelliJ, Git, Android Studio, ModelSim/Questa, Node.js, React, Matplotlib
 
 **Concepts:**  
 Embedded Systems, Data Structures, Object-Oriented Programming, API Integration, Real-Time Data Visualization, Full Stack Development
 
 ---
 
-## 📚 Coursework
+## 📚 Related Coursework
 
 **Currently Taking:**  
 - Computer Organization & Assembly Level Programming
 - Electric Circuits
-- Technical Communication
 
 **Completed:**  
 - Embedded Systems
