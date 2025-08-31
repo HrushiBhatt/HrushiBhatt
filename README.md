@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Hrushi Bhatt
 
-I'm a Computer Engineering student at Iowa State University who enjoys building smart, hands-on projects that combine hardware and software. I’ve worked on robots, data-driven apps, and interactive UIs, and I’m always exploring new technologies to improve how things work.
+I'm a Junior in Computer Engineering student at Iowa State University who enjoys building smart, hands-on projects that combine hardware and software. I’ve worked on robots, data-driven apps, and interactive UIs, and I’m always exploring new technologies to improve how things work.
 
 ---
 
@@ -17,20 +17,6 @@ I'm a Computer Engineering student at Iowa State University who enjoys building 
 
 - **Portfolio Website**  
   
-
----
-
-## 💻 Skills
-
-**Languages:**  
-Python, C, Java, JavaScript, HTML/CSS, VHDL, Kotlin
-
-**Tools & Frameworks:**  
-VS Code, IntelliJ, Git, Android Studio, ModelSim/Questa, Node.js, React, Matplotlib
-
-**Concepts:**  
-Embedded Systems, Data Structures, Object-Oriented Programming, API Integration, Real-Time Data Visualization, Full Stack Development
-
 ---
 
 ## 📚 Related Coursework
