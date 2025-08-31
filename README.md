@@ -1,6 +1,7 @@
-# 👋 Hey, I'm Hrushi Bhatt
+# 👋 I'm Hrushi Bhatt
 
-I'm a Junior in Computer Engineering student at Iowa State University who enjoys building smart, hands-on projects that combine hardware and software. I’ve worked on robots, data-driven apps, and interactive UIs, and I’m always exploring new technologies to improve how things work.
+🎓 Junior @ Iowa State University
+💻 Pursuing B.S. in Computer Engineering
 
 ---
 
