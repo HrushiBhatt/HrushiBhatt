@@ -9,6 +9,7 @@
 ## 🧠 Projects
 
 - **Full-Stack Productivity Manager**
+  
   A full-stack Coffee themed pomodoro timer application designed for productivity and time management. Helps users track their work sessions. 
 
 - **Autonomous Radar-Mapping Robot**  
