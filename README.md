@@ -15,7 +15,7 @@
   A Embedded Systems based Navigation Robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
 
 - **Message Decoder System**  
-  A low-level decoder built in C that processes encoded messages using linked lists and pattern matching logic.
+  A low-level decoder built in Java that processes encoded messages using linked lists and pattern matching logic.
 
 ---
 
