@@ -8,17 +8,15 @@
 
 ## 🧠 Projects
 
-- **Coffee Pomodoro Timer**
-  A full-stack web application designed for productivity and time management. Helps users track their work sessions. 
+- **Full-Stack Productivity Manager**
+  A full-stack Coffee themed pomodoro timer application designed for productivity and time management. Helps users track their work sessions. 
 
-- **Embedded Navigation Robot**  
-  A Roomba robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
+- **Autonomous Radar-Mapping Robot**  
+  A Embedded Systems based Navigation Robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
 
 - **Message Decoder System**  
   A low-level decoder built in C that processes encoded messages using linked lists and pattern matching logic.
 
-- **Portfolio Website**  
-  
 ---
 
 ## 📚 Related Coursework
