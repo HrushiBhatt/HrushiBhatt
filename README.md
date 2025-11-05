@@ -1,8 +1,8 @@
 # 👋 I'm Hrushi Bhatt
 
-- 🎓 Junior | Iowa State University
+- 🎓 Junior | Iowa State University 🌪️
 
-- 💻 Bachelor's of Science in Computer Engineering
+- 💻 B.S. in Computer Engineering
 
 ---
 
@@ -11,8 +11,6 @@
 **Currently Enrolled:**  
 - CPRE 3810 - Computer Organization & Assembly-Level Programming
 - EE 2010 - Electric Circuits
-
-**Spring 2026:**
 
 - COMS 3090 - Software Development Practices
 - CPRE 3080 - Operating Systems
@@ -23,7 +21,7 @@
 
 ## ✅ Completed Coursework
 
-**Completed:**  
+**Iowa State University:**  
 - CPRE 2880 - Embedded Systems I
 - CPRE 3100 - Discrete Math
 - MATH 2070 - Linear Algebra
