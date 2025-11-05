@@ -6,37 +6,28 @@
 
 ---
 
-## 🧠 Projects
+## 📚 Current Coursework
 
-- **Full-Stack Productivity Manager**   
-  A full-stack Coffee themed pomodoro timer application designed for productivity and time management. Helps users track their work sessions. 
-
-- **Autonomous Radar-Mapping Robot**  
-  A Embedded Systems based Navigation Robot that scans terrain, detects objects with IR + sonar sensors, and locates a hidden statue. Visualized in real-time using a custom Python GUI.
-
-- **Message Decoder System**  
-  A low-level decoder built in Java that processes encoded messages using linked lists and pattern matching logic.
+**Currently Enrolled:**  
+- CPRE 3810 -> Computer Organization & Assembly-Level Programming
+- EE 2010 -> Electric Circuits
 
 ---
 
-## 📚 Related Coursework
-
-**Currently Taking:**  
-- Computer Organization & Assembly Level Programming
-- Electric Circuits
+## ✅ Completed Coursework
 
 **Completed:**  
-- Embedded Systems
-- Discrete Math
-- Linear Algebra
-- Engineering Ethics
-- Data Structures and Algorithms
-- Digital Logic and Design
-- Object Oriented Programming
-- CPRE Problem Solving
-- Differential Equations
-- Calculus 2
-
+- CPRE 2880 -> Embedded Systems I
+- CPRE 3100 -> Discrete Math
+- MATH 2070 -> Linear Algebra
+- CPRE 2320 -> Engineering Ethics
+- COMS 2880 -> Data Structures and Algorithms
+- CPRE 2810 -> Digital Logic and Design
+- COMS 2270 -> Object Oriented Programming
+- CPRE 1850 -> Introduction to Computer Engineering Problem Solving
+- MATH 2670 -> Differential Equations
+- MATH 1660 -> Calculus II
+- PHYS 2310 -> Classical Physics I
 ---
 
 ## 📫 Connect with Me
