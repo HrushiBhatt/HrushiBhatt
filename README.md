@@ -12,27 +12,27 @@
 - CPRE 3810 - Computer Organization & Assembly-Level Programming
 - EE 2010 - Electric Circuits
 
-- COMS 3090 - Software Development Practices
-- CPRE 3080 - Operating Systems
-- EE 2300 - Circuits and Systems
-- STAT 3300 - Probability and Statistics for Computer Science
+- COMS 309 - Software Development Practices
+- CPRE 308 - Operating Systems Principles & Practice
+- EE 230 - Circuits & Systems
+- STAT 330 - Probability & Statistics for Computer Science
 
 ---
 
 ## ✅ Completed Coursework
 
 **Iowa State University:**  
-- CPRE 2880 - Embedded Systems I
-- CPRE 3100 - Discrete Math
-- MATH 2070 - Linear Algebra
-- CPRE 2320 - Professional Ethics in Computer Engineering
-- COMS 2880 - Data Structures and Algorithms
-- CPRE 2810 - Digital Logic and Design
-- COMS 2270 - Object Oriented Programming
-- CPRE 1850 - Intro to Computer Engineering Problem Solving
-- MATH 2670 - Differential Equations
-- MATH 1660 - Calculus II
-- PHYS 2310 - Classical Physics I
+- CPRE 288 - Embedded Systems I
+- CPRE 310 - Theoretical Foundations of Computer Engineering
+- MATH 207 - Linear Algebra
+- CPRE 232 - Professional & Ethical Issues in Electrical & Computer Engineering
+- COMS 288 - Data Structures & Algorithms
+- CPRE 281 - Digital Logic & Design
+- COMS 227 - Object Oriented Programming
+- CPRE 185 - Problem Solving in Computer Engineering I
+- MATH 267 - Differential Equations
+- MATH 166 - Calculus II
+- PHYS 231 - Classical Physics I
 ---
 
 ## 📫 Connect with Me
