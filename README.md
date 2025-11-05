@@ -2,7 +2,7 @@
 
 - 🎓 Junior @ Iowa State University
 
-- 💻 Pursuing B.S. in Computer Engineering
+- 💻 Pursuing Bachelor of Science in Computer Engineering
 
 ---
 
