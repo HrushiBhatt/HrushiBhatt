@@ -1,6 +1,6 @@
 # 👋 I'm Hrushi Bhatt
 
-- 🎓 Iowa State University | Junior | Expected Graduation: May 2027
+- 🎓 Junior | Iowa State University
 
 - 💻 Bachelor's of Science in Computer Engineering
 
