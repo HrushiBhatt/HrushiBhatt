@@ -9,8 +9,8 @@
 ## 🧑‍💻 Current Relevant Coursework
 
 **Currently Learning:**  
-- CPRE 3810 - Computer Organization & Assembly-Level Programming
-- EE 2010 - Electric Circuits
+- CPRE 381 - Computer Organization & Assembly-Level Programming
+- EE 201 - Electric Circuits
 
 ---
 
