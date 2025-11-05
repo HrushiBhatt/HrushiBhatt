@@ -8,14 +8,9 @@
 
 ## 🧑‍💻 Current Relevant Coursework
 
-**Currently Enrolled:**  
+**Currently Learning:**  
 - CPRE 3810 - Computer Organization & Assembly-Level Programming
 - EE 2010 - Electric Circuits
-
-- COMS 309 - Software Development Practices
-- CPRE 308 - Operating Systems Principles & Practice
-- EE 230 - Circuits & Systems
-- STAT 330 - Probability & Statistics for Computer Science
 
 ---
 
@@ -24,12 +19,12 @@
 **Iowa State University:**  
 - CPRE 288 - Embedded Systems I
 - CPRE 310 - Theoretical Foundations of Computer Engineering
-- MATH 207 - Linear Algebra
 - CPRE 232 - Professional & Ethical Issues in Electrical & Computer Engineering
-- COMS 288 - Data Structures & Algorithms
 - CPRE 281 - Digital Logic & Design
+- COMS 228 - Data Structures & Algorithms
 - COMS 227 - Object Oriented Programming
 - CPRE 185 - Problem Solving in Computer Engineering I
+- MATH 207 - Linear Algebra
 - MATH 267 - Differential Equations
 - MATH 166 - Calculus II
 - PHYS 231 - Classical Physics I
