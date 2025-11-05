@@ -26,8 +26,7 @@
 - CPRE 185 - Problem Solving in Computer Engineering I
 - MATH 207 - Linear Algebra
 - MATH 267 - Differential Equations
-- MATH 166 - Calculus II
-- PHYS 231 - Classical Physics I
+
 ---
 
 ## 📫 Connect with Me
