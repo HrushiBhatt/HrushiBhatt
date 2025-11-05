@@ -39,6 +39,7 @@
 - 🌐 Github.com/HrushiBhatt
 - 💼 Linkedin.com/in/hrushibhatt
 - 📧 hrushibhatt@gmail.com
+- 📞 630-303-6321
 
 Thanks for visiting!
 
