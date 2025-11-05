@@ -12,7 +12,7 @@
 - CPRE 3810 - Computer Organization & Assembly-Level Programming
 - EE 2010 - Electric Circuits
 
-**Upcoming:**
+**Spring 2026:**
 
 - COMS 3090 - Software Development Practices
 - CPRE 3080 - Operating Systems
