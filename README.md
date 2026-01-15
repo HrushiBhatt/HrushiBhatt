@@ -2,7 +2,7 @@
 
 - 🎓 Junior | Iowa State University 🌪️
 
-- 💻 Computer Engineering Student
+- 💻 Bachelor of Science in Computer Engineering
 
 ---
 
