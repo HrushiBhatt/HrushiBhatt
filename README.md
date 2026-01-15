@@ -9,14 +9,18 @@
 ## 🧑‍💻 Current Relevant Coursework
 
 **Currently Learning:**  
-- CPRE 381 - Computer Organization & Assembly-Level Programming
-- EE 201 - Electric Circuits
+- CPRE 308 - Operating Systems
+- COMS 309 - Software Development
+- EE 230 - Electronic Circuits & Systems
+- STAT 330 - Statistics for Computer Science
 
 ---
 
 ## ✅ Completed Coursework
 
 **Iowa State University:**  
+- CPRE 381 - Computer Organization & Assembly-Level Programming
+- EE 201 - Electric Circuits
 - CPRE 288 - Embedded Systems I
 - CPRE 310 - Theoretical Foundations of Computer Engineering
 - CPRE 232 - Professional & Ethical Issues in Electrical & Computer Engineering
