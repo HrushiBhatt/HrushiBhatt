@@ -7,9 +7,9 @@
 
 ## 📥 Contacts
 
-- <img src="https://assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png" height="24" align="center" /> hrushibhatt@gmail.com
-- <img src="https://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" height="24" align="center" /> hrushibhatt
-- <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="24" align="center" hrushibhatt_
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" align="center" /> hrushibhatt@gmail.com
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" align="center" /> hrushibhatt
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="24" align="center" /> hrushibhatt_
 
 ---
 
