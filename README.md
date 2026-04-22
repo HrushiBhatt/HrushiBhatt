@@ -10,7 +10,7 @@
 - 💼 Linkedin.com/in/hrushibhatt
 - ✉️ hrushibhatt@gmail.com
 - 📞 +1 (630) 303-6321
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="24" align="center" /> hrushibhatt_
+- <img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" align="center" /> instagram.com/hrushibhatt_/
 
 ---
 
