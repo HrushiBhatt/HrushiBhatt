@@ -1,15 +1,15 @@
 # 👋 I'm Hrushi Bhatt
 
-- 🎓 Pursuing a Bachelors of Science Degree in Computer Engineering
+- 🎓 B.S. in Computer Engineering
 - <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Junior | Iowa State University
 
 ---
 
 ## 📥 Contacts
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" align="center" /> hrushibhatt@gmail.com
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="24" align="center" /> hrushibhatt
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="24" align="center" /> hrushibhatt_
+- Gmail: hrushibhatt@gmail.com
+- LinkedIn: hrushibhatt
+- Instagram: hrushibhatt_
 
 ---
 
