@@ -5,11 +5,22 @@
 
 ---
 
-## 📥 Contacts
+## 📬 Let's Connect
 
-- hrushibhatt@gmail.com
-- https://www.linkedin.com/in/hrushibhatt/
-- https://www.instagram.com/hrushibhatt_/
+<p align="center">
+  <a href="mailto:hrushibhatt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hrushibhatt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/hrushibhatt_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="tel:+16303036321">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
+</p>
 
 ---
 
