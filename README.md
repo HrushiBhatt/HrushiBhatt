@@ -7,9 +7,9 @@
 
 ## 📥 Contacts
 
-- Gmail: hrushibhatt@gmail.com
-- LinkedIn: hrushibhatt
-- Instagram: hrushibhatt_
+- hrushibhatt@gmail.com
+- https://www.linkedin.com/in/hrushibhatt/
+- https://www.instagram.com/hrushibhatt_/
 
 ---
 
