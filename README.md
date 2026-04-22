@@ -5,6 +5,20 @@
 
 ---
 
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:hrushibhatt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/hrushibhatt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.instagram.com/hrushibhatt_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="tel:+16303036321">
+</p>
+
+---
+
 ## 🧑‍💻 Current Relevant Coursework
 
 **Currently Learning:**  
@@ -35,19 +49,5 @@
 - MATH 267 - Differential Equations & Laplace Transforms
 - CPRE 185 - Problem Solving in Computer Engineering I
 - CPRE 166/CPRE 101 - Computer Engineering Orientation/ Careers in CPRE
-
----
-
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="mailto:hrushibhatt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  <a href="https://www.linkedin.com/in/hrushibhatt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <a href="https://www.instagram.com/hrushibhatt_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  <a href="tel:+16303036321">
-</p>
 
 ---
