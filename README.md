@@ -1,10 +1,9 @@
 # 👋 I'm Hrushi Bhatt
 
-- 🎓 Junior | B.S. in Computer Engineering  at Iowa State University <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" />
-
+- <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Junior | Iowa State University 
+- 🎓 B.S. in Computer Engineering
 - 💼 Linkedin.com/in/hrushibhatt
 - 📧 hrushibhatt@gmail.com
-- 📞 630-303-6321
 
 ---
 
