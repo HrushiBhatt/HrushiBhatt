@@ -7,8 +7,8 @@
 
 ## 📬 Let's Connect!
 
-- 💼 Linkedin.com/in/hrushibhatt
 - 📧 hrushibhatt@gmail.com
+- 💼 Linkedin.com/in/hrushibhatt
 - 📸 instagram.com/hrushibhatt_
 
 ---
