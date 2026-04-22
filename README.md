@@ -11,16 +11,21 @@
 ## 🧑‍💻 Current Relevant Coursework
 
 **Currently Learning:**  
-- CPRE 308 - Operating Systems
-- COMS 309 - Software Development Practices
-- EE 230 - Electronic Circuits & Systems
-- STAT 330 - Statistics for Computer Science
+- COMS 311 - Intro to the Design and Analysis of Algorithms
+- CPRE 329 - Software Project Management
+- COMS 472 - Principles of Artificial Intelligence
+- CPRE 491 - Senior Design Project I and Professionalism
+- SE 409 - Software Requirements Engineering
 
 ---
 
 ## ✅ Completed Coursework
 
 **Iowa State University:**  
+- CPRE 308 - Operating Systems
+- COMS 309 - Software Development Practices
+- EE 230 - Electronic Circuits & Systems
+- STAT 330 - Statistics for Computer Science
 - CPRE 381 - Computer Organization & Assembly-Level Programming
 - EE 201 - Electric Circuits
 - CPRE 288 - Embedded Systems I
