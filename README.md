@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Hrushi Bhatt
 
-### 🎓 B.S. in Computer Engineering <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Iowa_State_Cyclones_logo.svg/120px-Iowa_State_Cyclones_logo.svg.png" height="22" align="center" /> Iowa State University · Class of 2027
+### 🎓 B.S. in Computer Engineering <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Iowa State University · Class of 2027
 
 *Backend & Embedded Systems Engineer in the making* 🛠️
 
@@ -16,6 +16,7 @@
 
 ## 🚀 About Me
 
+~~~python
 hrushi = {
     "role"       : "Computer Engineering Student",
     "focus"      : ["Backend Development", "Embedded Systems", "AI/ML"],
@@ -24,6 +25,7 @@ hrushi = {
     "dream_car"  : "Porsche 911 GT3 RS",
     "fun_fact"   : "I build circuits by day and chase frisbees by... also day"
 }
+~~~
 
 ---
 
@@ -85,13 +87,13 @@ hrushi = {
 
 ### 📊 GitHub Stats
 
-![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhatt10&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbhatt10&layout=compact&theme=tokyonight&hide_border=true)
+![Hrushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrushiBhatt&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrushiBhatt&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### ✨ Thanks for stopping by! Let's build something cool.
 
-![Profile views](https://komarev.com/ghpvc/?username=hbhatt10&style=flat-square&color=C8102E)
+![Profile views](https://komarev.com/ghpvc/?username=HrushiBhatt&style=flat-square&color=C8102E)
 
 </div>
