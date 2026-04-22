@@ -7,10 +7,9 @@
 
 ## 📥 Contacts
 
-- ✉️ hrushibhatt@gmail.com
-- 📞 +1 (630) 303-6321
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" height="24" align="center" /> linkedin.com/in/hrushibhatt
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" height="24" align="center" /> instagram.com/hrushibhatt_
+- <img src="https://assets.stickpng.com/images/5847f9cbcef1014c0b5e48c8.png" height="24" align="center" /> hrushibhatt@gmail.com
+- <img src="https://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" height="24" align="center" /> hrushibhatt
+- <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" height="24" align="center" hrushibhatt_
 
 ---
 
