@@ -1,7 +1,7 @@
 # 👋 I'm Hrushi Bhatt
 
 - 🎓 B.S. in Computer Engineering
-- <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Junior | Iowa State University
+- <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Senior | Iowa State University
 
 ---
 
