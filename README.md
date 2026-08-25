@@ -16,7 +16,7 @@
 ## 🧑‍💻 Current Relevant Coursework
 
 **Currently Learning:**  
-- COMS 311 - Intro to the Design and Analysis of Algorithms
+
 - CPRE 329 - Software Project Management
 - COMS 472 - Principles of Artificial Intelligence
 - CPRE 491 - Senior Design Project I and Professionalism
@@ -27,6 +27,7 @@
 ## ✅ Completed Coursework
 
 **Iowa State University:**  
+- COMS 311 - Intro to the Design and Analysis of Algorithms
 - CPRE 308 - Operating Systems
 - COMS 309 - Software Development Practices
 - EE 230 - Electronic Circuits & Systems
