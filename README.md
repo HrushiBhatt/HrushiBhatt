@@ -1,4 +1,4 @@
-# 👋 Welcome To My Page!
+# 👋 Welcome to my Repository!
 
 - 🎓 B.S. in Computer Engineering
 - <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/66.png" height="24" align="center" /> Senior | Iowa State University
