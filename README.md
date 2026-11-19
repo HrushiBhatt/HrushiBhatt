@@ -27,11 +27,11 @@
 
 **Spring 2027**
 
-- COMS 474 - Introduction to Machine Learning
 - CPRE 419 - Software Tools for Large Scale Data Analysis
 - CPRE 450 - Distributed Systems and Middleware
-- SE 424X - AI-Enabled Software Engineering
 - CPRE 492 - Senior Design Project II
+- COMS 474 - Machine Learning
+- SE 424X - AI-Enabled Software Engineering
 
 ---
 
