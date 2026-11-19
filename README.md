@@ -25,7 +25,7 @@
 
 ## ‼️ Upcoming Coursework
 
-**Spring 2027**
+**Spring 2027:**
 
 - CPRE 419 - Software Tools for Large Scale Data Analysis
 - CPRE 450 - Distributed Systems and Middleware
