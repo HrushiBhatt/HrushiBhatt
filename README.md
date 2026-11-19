@@ -23,7 +23,7 @@
 
 ---
 
-## ⏳‼️ Upcoming Coursework
+## ‼️ Upcoming Coursework
 
 **Spring 2027**
 
